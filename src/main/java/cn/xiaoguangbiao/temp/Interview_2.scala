@@ -2,7 +2,7 @@ package cn.xiaoguangbiao.temp
 
 /**
  * Author xiaoguangbiao
- * Desc 面试题--谷歌爬楼梯
+ * Desc 练习题--谷歌爬楼梯
  * Google 曾询问应征者 ：有N阶楼梯 ，你每次只能爬1或2 阶 楼梯；能有多少种方法?
  */
 object Interview_2 {

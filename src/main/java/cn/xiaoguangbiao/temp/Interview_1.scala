@@ -5,7 +5,7 @@ import scala.collection.mutable.ListBuffer
 /**
  * Author xiaoguangbiao
  * Date 2020/12/26 18:01
- * Desc 面试题--使用多种方式交换2个变量的值
+ * Desc 练习题--使用多种方式交换2个变量的值
  */
 object Interview_1 {
   def main(args: Array[String]): Unit = {
